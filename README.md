@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello, I'm Luke
 
-<!--
-**lukescarlatescu/lukescarlatescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student, focusing on website development, backend and database design and AI.
 
-Here are some ideas to get you started:
+## Tech stack
+- **Languages**: Javascript, Typescript, Python, Java, GO, (some) C++ and C
+- **Web and backend**: React, Express, HTML/CSS
+- **Networking**: HTTP, WebSockets, WebRTC
+- **Database**: SQLite
+- **AI**: LLaMA.cpp, stable diffusion, whisper
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+RTC, Typescript, SQL, advanced networking and infrastructure.
+
+## Contact
+- Email: `luke.scarlatescu@gmail.com`
+- Discord: `chickenstrips05`
